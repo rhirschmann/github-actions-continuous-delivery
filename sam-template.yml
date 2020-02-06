@@ -9,6 +9,7 @@ Resources:
       
       # This function uses the Nodejs v8.10 runtime. NOT SUPPORTED ANYMORE
       # Changed it into nodejs12.x.
+      # Bla bla
       Runtime: nodejs12.x
         
       # This is the Lambda function's handler.
